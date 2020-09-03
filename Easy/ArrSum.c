@@ -16,7 +16,7 @@ int main()
         sum=sum+arr[i];
    }
   rem = sum%N;
- printf("%d",&rem);
+ printf("%d",rem);
        
       
   return 0;
